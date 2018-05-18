@@ -355,7 +355,7 @@ following strings:
 
 ### `locale`
 
-The `locale` attribute allows tests to declare specific information regarding locale specificity.
+The `locale` attribute allows tests to declare explicit information regarding locale specificity.
 
 - **`tags`** A list of valid language tags or subtags found in this test. Use IANA Language Subtag Registry to validate.
 
